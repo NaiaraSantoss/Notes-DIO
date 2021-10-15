@@ -6,5 +6,7 @@
 
 ## Correção de Erros:
 Spring Boot: 
-Erro ao conectar o banco de dados: Database "mem:testdb" not found, either pre-create it or allow remote database creation (not recommended in secure environments) [90149-200] 90149/90149
+Erro ao conectar o banco de dados:  
+Database "mem:testdb" not found, either pre-create it or allow remote database creation (not recommended in secure environments) [90149-200] 90149/90149  
+
 [Solução: ]()
